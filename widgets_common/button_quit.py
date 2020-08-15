@@ -1,4 +1,4 @@
-import tkinter as ui
+from ui_lib.ui_library import ui
 
 
 def button_quit(app):
