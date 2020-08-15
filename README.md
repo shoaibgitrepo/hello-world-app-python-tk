@@ -1,3 +1,4 @@
 # hello-world-app-python-tk
 
-#> python main.py
+Run command
+# python main.py
